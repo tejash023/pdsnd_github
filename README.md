@@ -1,5 +1,5 @@
 ### Date created
-This project is created on 12th of June 2020.
+12/06/2020
 
 ### Project Title
 Udacity Bike Share Project
